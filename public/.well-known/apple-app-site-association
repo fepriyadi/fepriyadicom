@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "defaults": {
+      "caseSensitive": false
+    },
+    "details": [
+      {
+        "appID": "AL98QUAJ46.mnc.aladinmall",
+        "paths": [
+          "/*",
+          "/products/*"
+        ]
+      }
+    ]
+  }
+}
